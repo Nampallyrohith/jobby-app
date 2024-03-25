@@ -1,0 +1,126 @@
+.job-details-container {
+  background-color: #000000;
+  min-height: 100vh;
+  padding: 50px;
+}
+
+.company-container2 {
+  background-color: #272727;
+  padding: 30px;
+  margin-bottom: 20px;
+  border-radius: 15px;
+  width: 100%;
+  color: white;
+  text-decoration: none;
+}
+
+.similar-container2 {
+  background-color: #272727;
+  padding: 30px;
+  margin-bottom: 20px;
+  border-radius: 15px;
+  color: white;
+  text-decoration: none;
+  width: 300px;
+}
+
+.similar-ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.similar-ul li {
+  margin-right: 30px;
+}
+
+.logo-container2,
+.img-content2 {
+  display: flex;
+}
+
+.img-content2 {
+  align-items: center;
+  justify-content: start;
+}
+
+.similar-heading {
+  color: white;
+}
+
+.logo-container2 img {
+  width: 60px;
+  height: 60px;
+}
+
+.company-name2 {
+  margin-left: 15px;
+  line-height: 0;
+}
+
+.company-name2 h1 {
+  font-size: 18px;
+}
+
+.star-icon2 {
+  color: #fbbf24;
+}
+.img-content2 p {
+  margin-left: 10px;
+  font-size: 16px;
+}
+
+.location-type2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.location-type2 p {
+  font-size: 16px;
+}
+.location-info2 {
+  display: flex;
+}
+
+.location-info2 div {
+  margin-right: 10px;
+}
+
+.hr-line2 {
+  padding: 0px;
+}
+
+.description-heading2 {
+  font-size: 18px;
+}
+
+.description2 {
+  font-size: 16px;
+}
+
+.anchor-description {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.anchor-description a {
+  text-decoration: none;
+}
+
+.skill-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.skill-container li div {
+  display: flex;
+  margin: 30px;
+  justify-content: center;
+  align-items: center;
+}
+
+.skill-container li div img {
+  width: 80px;
+  height: 60px;
+  margin-right: 10px;
+}
